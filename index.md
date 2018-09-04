@@ -1,12 +1,3 @@
-[cat1]: https://raw.githubusercontent.com/ewastasiak/cat-clicker/premium/img/5c.png "First cat"
-
-![Chii edited vector][cat1]
-
-
-
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ewastasiak/showcase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
