@@ -1,3 +1,8 @@
+https://ewastasiak.github.io/arcade-game/
+https://github.com/ewastasiak/arcade-game
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ewastasiak/showcase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
