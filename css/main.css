@@ -43,6 +43,17 @@ footer {
     font-size: .8em;
 }
 
+img {
+padding: 0;
+       margin: auto;
+       max-width:95%;
+       max-height:95%;
+       border: dashed 5px;
+       border-color: #7d97ad;
+}
+
+
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
