@@ -50,13 +50,14 @@ p {
 }
 
 footer {
-    border-top: 3px solid #7d97ad;
+    border-top: 48px solid #d06900;
     font-size: 0.8em;
+	color: #000;
 }
 
 hr {
 max-width: 100%;
-border: 2px solid #7d97ad;	
+border: 12px solid #7d97ad;	
 }
 
 img {
