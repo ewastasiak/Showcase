@@ -55,13 +55,13 @@ footer {
 }
 
 hr {
-max-width: 600px;
+max-width: 100%;
 border: 2px solid #7d97ad;	
 }
 
 img {
 padding: 0;
-       margin: auto;
+       margin: 0 auto;
        max-width:600px;
        max-height:600px;
        border: dashed 3px;
