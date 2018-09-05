@@ -52,7 +52,6 @@ p {
 footer {
     border-top: 48px solid #d06900;
     font-size: 0.8em;
-	color: #000;
 }
 
 hr {
@@ -71,6 +70,9 @@ img {
 }
 
 
+.footer-link {
+	color: #000;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
