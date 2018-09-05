@@ -90,13 +90,21 @@ ul.posts li {
     list-style: none;
 }
 
+figure {
+	width: 400px;
+	display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .flexbox {
 	width: 100%;
 	display: flex;
+	flex-flow: row wrap;
 	align-items: center;
-	justify-content: space-around;	
+	justify-content: space-evenly;	
 }
 
 .flexitem {
-	width: 30%;
+	width: 50%;
 }
