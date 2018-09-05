@@ -4,29 +4,11 @@ body {
 	color: #333;
 }
 
-nav {
-	font-size: 1.2em;
-}
-
-nav ul,
-footer ul {
-    font-family:'Times New Roman', 'Trebuchet', 'Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-
-nav ul li,
-footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
 a {
     text-decoration: none;
     color: #d06900;
-	font-size: 1.5em;
-	line-height: 1.4em;
+	font-size: 1em;
+
 }
 
 a:hover {
@@ -76,6 +58,23 @@ img {
 	outline-offset: -6px;
 }
 
+nav {
+	font-size: 1.2em;
+}
+
+nav ul,
+footer ul {
+    font-family:'Times New Roman', 'Trebuchet', 'Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li,
+footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
 
 .footer-link {
 	color: #000;
