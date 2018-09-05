@@ -2,6 +2,8 @@ body {
     margin: 60px auto;
     width: 70%;
 	color: #333;
+	font-size: 1.5em;
+	line-height: 1.4.em;
 }
 
 nav {
@@ -46,12 +48,6 @@ h2 {
 
 h3 {
     font-size: 2em;
-}
-
-p,
-a {
-    font-size: 1.5em;
-    line-height: 1.4em;
 }
 
 footer {
