@@ -2,20 +2,30 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+
+nav {
+	font-size: 0.8em;
+}
+
+nav ul,
+footer ul {
     font-family:'Times New Roman', 'Trebuchet', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+
+nav ul li,
+footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #d06900;
 }
+
 a:hover {
     text-decoration: underline;
 }
@@ -38,9 +48,10 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 0.8em;
 }
 
 img {
