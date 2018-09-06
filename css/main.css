@@ -90,14 +90,14 @@ ul.posts li {
 }
 
 figure {
-	width: 400px;
 	display: flex;
+	flex-direction: column;
     align-items: center;
     justify-content: space-around;
 }
 
 .flexbox {
-	width: 100%;
+	max-width: 800px;
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
