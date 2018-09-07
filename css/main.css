@@ -83,11 +83,14 @@ img {
 
 .img-small-b {
 	height: 400px;
+	min-width: 50px;
+	object-fit: cover;
 }
 
 .img-small-c {
 	width: 400px;
 	min-height: 50px;
+	object-fit: cover;
 }
 
 figure {
