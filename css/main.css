@@ -76,7 +76,8 @@ img {
 }
 
 .img-small {
-	max-height: 400px;
+	height: 400px;
+	object-fit: cover;
 }
 
 figure {
