@@ -103,7 +103,7 @@ ul.posts li {
 .flexbox {
 	max-width: 800px;
 	display: flex;
-	flex-direction: column;
+	flex-flow: row wrap;
 	align-items: center;
 	justify-content: space-evenly;	
 }
