@@ -99,14 +99,16 @@ figure {
 .flexbox {
 	max-width: 800px;
 	display: flex;
-	flex-flow: row wrap;
+	flex-direction: column;
 	align-items: center;
 	justify-content: space-evenly;	
 }
 
+/*
 .grid-container {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: auto;
 
 }
+*/
