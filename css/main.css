@@ -81,6 +81,12 @@ img {
 	object-fit: cover;
 }
 
+.img-big {
+	height: 400px;
+	width: 100%;
+	object-fit: cover;
+}
+
 figure {
 	width: 60%;
 	display: flex;
