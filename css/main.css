@@ -75,6 +75,17 @@ img {
 	outline-offset: -4px;*/
 }
 
+img.flexbox {
+	max-height: 400px;
+}
+
+figure {
+	width: 60%;
+	display: flex;
+	flex-flow: column;
+    align-items: center;
+    justify-content: space-around;
+}
 
 .footer-link {
 	color: #000;
@@ -87,14 +98,6 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-figure {
-	width: 60%;
-	display: flex;
-	flex-flow: row wrap;
-    align-items: center;
-    justify-content: space-around;
 }
 
 .flexbox {
