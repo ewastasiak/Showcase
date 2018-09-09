@@ -100,7 +100,7 @@ figure {
 	width: 80%;
 	display: flex;
 	/*flex-flow: column;*/
-    align-items: center;
+    /*align-items: center;*/
     justify-content: flex-start;
 }
 
