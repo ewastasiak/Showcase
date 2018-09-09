@@ -92,6 +92,10 @@ img {
 	/*object-position: 0 0;*/
 }
 
+.img-noframe {
+    outline: none;
+}
+
 figure {
 	width: 60%;
 	display: flex;
