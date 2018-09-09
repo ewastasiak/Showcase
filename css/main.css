@@ -97,11 +97,11 @@ img {
 }
 
 figure {
-	width: 60%;
+	width: 80%;
 	display: flex;
 	/*flex-flow: column;*/
     align-items: center;
-    justify-content: space-around;
+    justify-content: flex-start;
 }
 
 figcaption {
