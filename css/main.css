@@ -104,6 +104,12 @@ figure {
     justify-content: space-around;
 }
 
+figcaption {
+    color: #fff;
+    margin: 0 auto;
+    background-color: #7d97ad;
+}
+
 picture {
 	
 }
