@@ -89,7 +89,7 @@ img {
 .img-big {
 	height: auto;
 	width: auto;
-	object-position: 0 0;
+	/*object-position: 0 0;*/
 }
 
 figure {
