@@ -77,14 +77,14 @@ img {
 	outline-offset: -4px;*/
 }
 
-.img-small {
-	height: 400px;
-	/*min-width: 50px;*/
-	/*object-fit: cover;*/
-	/*object-position: 70% 0;*/
-	outline: 4px solid #7d97ad;
-	outline-offset: -4px;
-}
+/*.img-small {*/
+/*	height: 400px;*/
+/*	min-width: 50px;*/
+/*	object-fit: cover;*/
+/*	object-position: 70% 0;*/
+/*	outline: 4px solid #7d97ad;*/
+/*	outline-offset: -4px;*/
+/*}*/
 
 .img-big {
 	height: auto;
