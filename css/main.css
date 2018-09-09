@@ -102,13 +102,12 @@ figure {
 	/*flex-flow: column;*/
     align-items: center;
     justify-content: space-around;
-    background-color: #7d97ad;
 }
 
 figcaption {
     color: #fff;
     margin: 2em;
-    background-color: #7d97ad;
+    align-self: baseline;
 }
 
 picture {
