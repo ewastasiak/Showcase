@@ -87,7 +87,7 @@ img {
 }
 
 .img-big {
-	height: 400px;
+	height: auto;
 	width: 100%;
 	object-position: 0 0;
 }
