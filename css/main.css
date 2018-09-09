@@ -73,8 +73,8 @@ img {
 	max-width:100%;
 	max-height:100%;
 	overflow: hidden;
-	/*outline: 4px solid #7d97ad;
-	outline-offset: -4px;*/
+	outline: 4px solid #7d97ad;
+	outline-offset: -4px;
 }
 
 /*.img-small {*/
