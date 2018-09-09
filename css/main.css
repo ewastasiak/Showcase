@@ -99,7 +99,7 @@ img {
 figure {
 	width: 60%;
 	display: flex;
-	flex-flow: column;
+	/*flex-flow: column;*/
     align-items: center;
     justify-content: space-around;
     background-color: #7d97ad;
