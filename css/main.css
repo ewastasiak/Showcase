@@ -108,6 +108,7 @@ figcaption {
     color: #7d97ad;
     margin: 2em;
     align-self: baseline;
+    width: 30%;
 }
 
 picture {
