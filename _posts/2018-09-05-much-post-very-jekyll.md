@@ -8,3 +8,7 @@ I Jekylled, so now I should Hyde.
 
 Testing youtube embed 
 {% include youtube.html id="0osziTUQlwQ" width="850" height="375" %}
+
+{% include youtube.html id=0osziTUQlwQ width=850 height=375 %}
+
+{% include youtube.html id="0osziTUQlwQ" width=850 height=375 %}
